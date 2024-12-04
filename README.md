@@ -1,16 +1,12 @@
-# test_app
+# Generador de noms aleatoris
 
-A new Flutter project.
+Projecte en flutter d'una app que mostra noms aleatoris
 
-## Getting Started
+## veure detalls dels noms
 
-This project is a starting point for a Flutter application.
+en clicar o pulsar sobre un dels noms, es mostra la següent informació:
+Nom
+Significat
+Popularitat
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
